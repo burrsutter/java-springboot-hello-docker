@@ -1,5 +1,14 @@
 # Java, Spring Boot, Hello, Dockerfile
 
+Dev mode
+
+```
+mvn spring-boot:run
+```
+
+```
+open http://localhost:8080
+```
 
 ```
 mvn package
